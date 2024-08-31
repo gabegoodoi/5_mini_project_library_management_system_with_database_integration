@@ -3,7 +3,7 @@ This Repository is a mini-project for Coding Temple.
 ## INSTALLATIONS:
 
 ```
-    git clone https://github.com/gabegoodoi/5_mini_project_library_management_system_with_database_integration/tree/main
+    git clone https://github.com/gabegoodoi/5_mini_project_library_management_system_with_database_integration.git
 ```
 
 ## SQL TABLES
