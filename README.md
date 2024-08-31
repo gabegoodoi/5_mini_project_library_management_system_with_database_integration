@@ -176,23 +176,10 @@ From your IDE of choice, select the run button from the main.py file.
 
         This method takes connection as an argument. 
         This method searches an author id in the authors table based on the operator's input. It then displays that entry's values in a formatted manner.
-
     
 5. OBJECT_CLASSES.PY
 
   The application's Author, Book, and User object classes are defined in this file along with their attributes.
-  
-  Finally, 2 User class methods are defined:
-        
-    1. get_lib_id()
-    
-        This method takes no arguments.
-        It is a getter that allows operators to access the private self.__lib_id attribute.
-        
-    2. set_lib_id()
-
-        This method takes self and an ID as arguments (though it defaults the ID to None). 
-        It is a setter that allows operators to alter the private self.__lib_id attribute.
   
 6. ERROR_HANDLING.PY
 
