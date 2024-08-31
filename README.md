@@ -3,7 +3,7 @@ This Repository is a mini-project for Coding Temple.
 ## INSTALLATIONS:
 
 ```
-    git clone TODO
+    git clone https://github.com/gabegoodoi/5_mini_project_library_management_system_with_database_integration/tree/main
 ```
 
 ## SQL TABLES
@@ -43,7 +43,7 @@ This Repository is a mini-project for Coding Temple.
 ## RUN APPLICATION
 
 ```
-    cd TODO
+    cd 5_mini_project_library_management_system_with_database_integration
 ```
 
 From your IDE of choice, select the run button from the main.py file.
